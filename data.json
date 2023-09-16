@@ -1,14 +1,16 @@
 [
     {
-        "key1":"Hiking in Norway"
-        
-        
-    },
-    {
-        "key2_1":"Походы в Норвегию"
-    },
-    {
-        "key3_1":"Արշավ Նորվեգիայում"
-    }
+        "id": "1",
+        "header": {
+            "nav": "mi ban",
+            "main": "hicking in norway",
+            "butt_cont": "Read More"
 
+        }
+    },
+    {
+        "key1.1": "value 1.1",
+        "key1.2": "value 1.2",
+        "key1.3": "value 1.3"
+    }
 ]
